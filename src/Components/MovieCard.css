@@ -1,0 +1,35 @@
+.movieCard {
+  border: 1px white solid;
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: fit-content;
+  border-radius: 20px;
+  margin: 30px;
+}
+
+.card {
+  margin-top: 20px;
+  width: 18rem;
+  height: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card-text {
+  font-weight: bold;
+}
+.title {
+}
+.stars {
+  margin: 5px auto;
+  font-size: 25px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100vw;
+}

@@ -1,0 +1,21 @@
+.ratingContainer {
+  margin: 30px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  border: 2px white solid;
+  width: 350px;
+  height: 40px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h3 {
+  color: #473531;
+  margin-right: 20px;
+}
+
+.starSearch {
+  font-size: 25px;
+}
